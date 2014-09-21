@@ -44,72 +44,73 @@ Transformations done to create the tidy data set:
 * Add subjects to data and aggregate the mean of each variable by subject and activity
 
 ### Tidy Data Set variables
-Subjects
-Activity
-Time Body Acceleration mean X
-Time Body Acceleration mean Y
-Time Body Acceleration mean Z
-Time Body Acceleration Standard Deviation X
-Time Body Acceleration Standard Deviation Y
-Time Body Acceleration Standard Deviation Z
-Time Gravity Acceleration mean X
-Time Gravity Acceleration mean Y
-Time Gravity Acceleration mean Z
-Time Gravity Acceleration Standard Deviation X
-Time Gravity Acceleration Standard Deviation Y
-Time Gravity Acceleration Standard Deviation Z
-Time Body Acceleration Jerk mean X
-Time Body Acceleration Jerk mean Y
-Time Body Acceleration Jerk mean Z
-Time Body Acceleration Jerk Standard Deviation X
-Time Body Acceleration Jerk Standard Deviation Y
-Time Body Acceleration Jerk Standard Deviation Z
-Time Body Gyroscope mean X
-Time Body Gyroscope mean Y
-Time Body Gyroscope mean Z
-Time Body Gyroscope Standard Deviation X
-Time Body Gyroscope Standard Deviation Y
-Time Body Gyroscope Standard Deviation Z
-Time Body Gyroscope Jerk mean X
-Time Body Gyroscope Jerk mean Y
-Time Body Gyroscope Jerk mean Z
-Time Body Gyroscope Jerk Standard Deviation X
-Time Body Gyroscope Jerk Standard Deviation Y
-Time Body Gyroscope Jerk Standard Deviation Z
-Time Body Acceleration Magnitude mean
-Time Body Acceleration Magnitude Standard Deviation 
-Time Gravity Acceleration Magnitude mean
-Time Gravity Acceleration Magnitude Standard Deviation 
-Time Body Acceleration Jerk Magnitude mean
-Time Body Acceleration Jerk Magnitude Standard Deviation 
-Time Body Gyroscope Magnitude mean
-Time Body Gyroscope Magnitude Standard Deviation 
-Time Body Gyroscope Jerk Magnitude mean
-Time Body Gyroscope Jerk Magnitude Standard Deviation 
-Frequency Body Acceleration mean X
-Frequency Body Acceleration mean Y
-Frequency Body Acceleration mean Z
-Frequency Body Acceleration Standard Deviation X
-Frequency Body Acceleration Standard Deviation Y
-Frequency Body Acceleration Standard Deviation Z
-Frequency Body Acceleration Jerk mean X
-Frequency Body Acceleration Jerk mean Y
-Frequency Body Acceleration Jerk mean Z
-Frequency Body Acceleration Jerk Standard Deviation X
-Frequency Body Acceleration Jerk Standard Deviation Y
-Frequency Body Acceleration Jerk Standard Deviation Z
-Frequency Body Gyroscope mean X
-Frequency Body Gyroscope mean Y
-Frequency Body Gyroscope mean Z
-Frequency Body Gyroscope Standard Deviation X
-Frequency Body Gyroscope Standard Deviation Y
-Frequency Body Gyroscope Standard Deviation Z
-Frequency Body Acceleration Magnitude mean
-Frequency Body Acceleration Magnitude Standard Deviation 
-Frequency Body Body Acceleration Jerk Magnitude mean
-Frequency Body Body Acceleration Jerk Magnitude Standard Deviation 
-Frequency Body Body Gyroscope Magnitude mean
-Frequency Body Body Gyroscope Magnitude Standard Deviation 
-Frequency Body Body Gyroscope Jerk Magnitude mean
-Frequency Body Body Gyroscope Jerk Magnitude Standard Deviation 
+
+* Subjects
+* Activity
+* Time Body Acceleration mean X
+* Time Body Acceleration mean Y
+* Time Body Acceleration mean Z
+* Time Body Acceleration Standard Deviation X
+* Time Body Acceleration Standard Deviation Y
+* Time Body Acceleration Standard Deviation Z
+* Time Gravity Acceleration mean X
+* Time Gravity Acceleration mean Y
+* Time Gravity Acceleration mean Z
+* Time Gravity Acceleration Standard Deviation X
+* Time Gravity Acceleration Standard Deviation Y
+* Time Gravity Acceleration Standard Deviation Z
+* Time Body Acceleration Jerk mean X
+* Time Body Acceleration Jerk mean Y
+* Time Body Acceleration Jerk mean Z
+* Time Body Acceleration Jerk Standard Deviation X
+* Time Body Acceleration Jerk Standard Deviation Y
+* Time Body Acceleration Jerk Standard Deviation Z
+* Time Body Gyroscope mean X
+* Time Body Gyroscope mean Y
+* Time Body Gyroscope mean Z
+* Time Body Gyroscope Standard Deviation X
+* Time Body Gyroscope Standard Deviation Y
+* Time Body Gyroscope Standard Deviation Z
+* Time Body Gyroscope Jerk mean X
+* Time Body Gyroscope Jerk mean Y
+* Time Body Gyroscope Jerk mean Z
+* Time Body Gyroscope Jerk Standard Deviation X
+* Time Body Gyroscope Jerk Standard Deviation Y
+* Time Body Gyroscope Jerk Standard Deviation Z
+* Time Body Acceleration Magnitude mean
+* Time Body Acceleration Magnitude Standard Deviation 
+* Time Gravity Acceleration Magnitude mean
+* Time Gravity Acceleration Magnitude Standard Deviation 
+* Time Body Acceleration Jerk Magnitude mean
+* Time Body Acceleration Jerk Magnitude Standard Deviation 
+* Time Body Gyroscope Magnitude mean
+* Time Body Gyroscope Magnitude Standard Deviation 
+* Time Body Gyroscope Jerk Magnitude mean
+* Time Body Gyroscope Jerk Magnitude Standard Deviation 
+* Frequency Body Acceleration mean X
+* Frequency Body Acceleration mean Y
+* Frequency Body Acceleration mean Z
+* Frequency Body Acceleration Standard Deviation X
+* Frequency Body Acceleration Standard Deviation Y
+* Frequency Body Acceleration Standard Deviation Z
+* Frequency Body Acceleration Jerk mean X
+* Frequency Body Acceleration Jerk mean Y
+* Frequency Body Acceleration Jerk mean Z
+* Frequency Body Acceleration Jerk Standard Deviation X
+* Frequency Body Acceleration Jerk Standard Deviation Y
+* Frequency Body Acceleration Jerk Standard Deviation Z
+* Frequency Body Gyroscope mean X
+* Frequency Body Gyroscope mean Y
+* Frequency Body Gyroscope mean Z
+* Frequency Body Gyroscope Standard Deviation X
+* Frequency Body Gyroscope Standard Deviation Y
+* Frequency Body Gyroscope Standard Deviation Z
+* Frequency Body Acceleration Magnitude mean
+* Frequency Body Acceleration Magnitude Standard Deviation 
+* Frequency Body Body Acceleration Jerk Magnitude mean
+* Frequency Body Body Acceleration Jerk Magnitude Standard Deviation 
+* Frequency Body Body Gyroscope Magnitude mean
+* Frequency Body Body Gyroscope Magnitude Standard Deviation 
+* Frequency Body Body Gyroscope Jerk Magnitude mean
+* Frequency Body Body Gyroscope Jerk Magnitude Standard Deviation 
 
